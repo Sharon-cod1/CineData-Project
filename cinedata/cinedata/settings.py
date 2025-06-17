@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     'rest_framework',
     'movies',
     'authentication',
+    'rest_framework_simplejwt',
 ]
 
 MIDDLEWARE = [
